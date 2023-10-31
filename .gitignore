@@ -1,0 +1,8 @@
+node_modules
+backend/lib
+backend/vendor
+frontend/dist
+backend/src/unused
+.DS_*
+main.dwarf
+backend/bin

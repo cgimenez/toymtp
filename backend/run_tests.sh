@@ -1,0 +1,1 @@
+find . -name *.cr | entr -c ruby build.rb test # crystal run test/suite1_test.cr

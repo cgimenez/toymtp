@@ -1,0 +1,18 @@
+Commands sent by HOST
+
+DEVICE_CONNECTED
+DEVICE_DISCONNECTED
+STORAGE_AVAILABLE
+
+Commands received by HOST
+
+HOST_CD ->
+HOST_GETDIR -> "HOSTDIR", Files
+GET_DEVICES -> "DEVICES", Devices
+
+DEVICE_GETDIR -> "DEVICEDIR", Files
+
+yarn add -D tailwindcss postcss autoprefixer
+yarn tailwindcss init
+
+yarn add flowbite-svelte classnames @popperjs/core

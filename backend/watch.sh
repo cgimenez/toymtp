@@ -1,0 +1,1 @@
+watchexec -v -w src 'ruby build.rb run'

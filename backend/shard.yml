@@ -1,0 +1,23 @@
+name: ToyMTP
+version: 0.1.0
+license: MIT
+authors:
+  - name <christophe.gimenez@gmail.com>
+
+description: |
+  Simple MTP transfer application
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+    version: 1.4.0
+  webview:
+    github: naqvis/webview
+
+development_dependencies:
+  ameba:
+    github: crystal-ameba/ameba
+    version: ~> 1.4.0
+  minitest:
+    github: ysbaddaden/minitest.cr
+    branch: master
